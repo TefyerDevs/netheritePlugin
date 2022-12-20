@@ -1,0 +1,7 @@
+name: NetheritePlugin
+version: '${version}'
+main: netheriteplugin.netheriteplugin.NetheritePlugin
+api-version: 1.19
+authors: [ Tefyer ]
+description: A customMade Plugin
+website: https://github.com/TefyerDevs?tab=repositories
